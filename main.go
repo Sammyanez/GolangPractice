@@ -2,8 +2,8 @@ package main
 
 func main() {
 
-	blue := []int{55, 7, 8}
-	FindThreeLargestNumbers(blue)
-	println("done")
+	array2 := []int{8, 5, 2, 9, 5, 6, 3}
+	BubbleSort(array2)
+	print("done")
 
 }
