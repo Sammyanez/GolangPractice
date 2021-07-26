@@ -2,8 +2,7 @@ package main
 
 func main() {
 
-	string1 := "xyz"
-	key := 2
-	print(CaesarCipherEncryptor(string1, key))
+	string1 := "aA"
+	print(RunLengthEncoding(string1))
 
 }
